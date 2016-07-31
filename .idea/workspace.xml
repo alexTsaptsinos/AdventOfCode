@@ -8,8 +8,11 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day13/sol13.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day14/sol14.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day14/sol14b.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day15/sol15.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day11/sol11.py" afterPath="$PROJECT_DIR$/Day11/sol11.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day15/input15.txt" afterPath="$PROJECT_DIR$/Day15/input15.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day15/sol15.py" afterPath="$PROJECT_DIR$/Day15/sol15.py" />
     </list>
     <ignored path="AdventOfCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,9 +29,10 @@
     <SUITE FILE_PATH="coverage/AdventOfCode$sol12.coverage" NAME="sol12 Coverage Results" MODIFIED="1469909633550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day12" />
     <SUITE FILE_PATH="coverage/AdventOfCode$sol9.coverage" NAME="sol9 Coverage Results" MODIFIED="1469441297118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day9" />
     <SUITE FILE_PATH="coverage/AdventOfCode$sol11.coverage" NAME="sol11 Coverage Results" MODIFIED="1469898785161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11" />
+    <SUITE FILE_PATH="coverage/AdventOfCode$sol15.coverage" NAME="sol15 Coverage Results" MODIFIED="1469961627430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day15" />
     <SUITE FILE_PATH="coverage/AdventOfCode$sol13.coverage" NAME="sol13 Coverage Results" MODIFIED="1469958814421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day13" />
     <SUITE FILE_PATH="coverage/AdventOfCode$sol8.coverage" NAME="sol8 Coverage Results" MODIFIED="1469438565113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day8" />
-    <SUITE FILE_PATH="coverage/AdventOfCode$sol14b.coverage" NAME="sol14b Coverage Results" MODIFIED="1469960868479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day14" />
+    <SUITE FILE_PATH="coverage/AdventOfCode$sol14b.coverage" NAME="sol14b Coverage Results" MODIFIED="1469961488366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day14" />
     <SUITE FILE_PATH="coverage/AdventOfCode$sol10.coverage" NAME="sol10 Coverage Results" MODIFIED="1469461160034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
     <SUITE FILE_PATH="coverage/AdventOfCode$sol14.coverage" NAME="sol14 Coverage Results" MODIFIED="1469960599034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day14" />
     <SUITE FILE_PATH="coverage/AdventOfCode$sol6b.coverage" NAME="sol6b Coverage Results" MODIFIED="1469308467572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day6" />
@@ -67,28 +71,28 @@
       <file leaf-file-name="sol14b.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day14/sol14b.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+            <state relative-caret-position="160">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sol15.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="sol15.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day15/sol15.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="288">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="input15.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="input15.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day15/input15.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="48">
+              <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -104,7 +108,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -127,6 +131,7 @@
         <option value="$PROJECT_DIR$/Day14/input14.txt" />
         <option value="$PROJECT_DIR$/Day14/sol14.py" />
         <option value="$PROJECT_DIR$/Day14/sol14b.py" />
+        <option value="$PROJECT_DIR$/Day15/input15.txt" />
         <option value="$PROJECT_DIR$/Day15/sol15.py" />
       </list>
     </option>
@@ -216,25 +221,7 @@
       <recent name="$PROJECT_DIR$/Day12" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sol14b">
-    <configuration default="false" name="sol11" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day11" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="AdventOfCode" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day11/sol11.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.sol15">
     <configuration default="false" name="sol12" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,6 +290,24 @@
       <module name="AdventOfCode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day14/sol14b.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sol15" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day15" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AdventOfCode" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day15/sol15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -516,19 +521,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.sol11" />
-      <item index="1" class="java.lang.String" itemvalue="Python.sol12" />
-      <item index="2" class="java.lang.String" itemvalue="Python.sol13" />
-      <item index="3" class="java.lang.String" itemvalue="Python.sol14" />
-      <item index="4" class="java.lang.String" itemvalue="Python.sol14b" />
+      <item index="0" class="java.lang.String" itemvalue="Python.sol12" />
+      <item index="1" class="java.lang.String" itemvalue="Python.sol13" />
+      <item index="2" class="java.lang.String" itemvalue="Python.sol14" />
+      <item index="3" class="java.lang.String" itemvalue="Python.sol14b" />
+      <item index="4" class="java.lang.String" itemvalue="Python.sol15" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.sol14b" />
-        <item index="1" class="java.lang.String" itemvalue="Python.sol14" />
-        <item index="2" class="java.lang.String" itemvalue="Python.sol13" />
-        <item index="3" class="java.lang.String" itemvalue="Python.sol12" />
-        <item index="4" class="java.lang.String" itemvalue="Python.sol11" />
+        <item index="0" class="java.lang.String" itemvalue="Python.sol15" />
+        <item index="1" class="java.lang.String" itemvalue="Python.sol14b" />
+        <item index="2" class="java.lang.String" itemvalue="Python.sol14" />
+        <item index="3" class="java.lang.String" itemvalue="Python.sol13" />
+        <item index="4" class="java.lang.String" itemvalue="Python.sol12" />
       </list>
     </recent_temporary>
   </component>
@@ -972,14 +977,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day14/sol14b.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day14/input14.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -988,18 +985,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day15/sol15.py">
+    <entry file="file://$PROJECT_DIR$/Day14/sol14b.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="160">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day15/input15.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="48">
+          <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day15/sol15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
